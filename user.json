@@ -1,0 +1,14 @@
+[
+  {
+    "id": "admin",
+    "password": "admin@#$_123"
+  },
+  {
+    "id": "USER_ID_2",
+    "password": "PASSWORD_2"
+  },
+  {
+    "id": "USER_ID_3",
+    "password": "PASSWORD_3"
+  }
+]
